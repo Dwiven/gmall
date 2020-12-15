@@ -12,6 +12,7 @@
         <module name="gmall-admin" />
         <module name="gmall-oms" />
         <module name="gmall-pms" />
+        <module name="gmall-generator" />
         <module name="gmall-common" />
         <module name="gmall-sms" />
       </profile>
@@ -20,6 +21,7 @@
       <module name="gmall" target="1.8" />
       <module name="gmall-admin" target="1.8" />
       <module name="gmall-common" target="1.8" />
+      <module name="gmall-generator" target="1.8" />
       <module name="gmall-oms" target="1.8" />
       <module name="gmall-pms" target="1.8" />
       <module name="gmall-sms" target="1.8" />
@@ -31,6 +33,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="gmall-admin" options="-parameters" />
       <module name="gmall-common" options="-parameters" />
+      <module name="gmall-generator" options="-parameters" />
       <module name="gmall-oms" options="-parameters" />
       <module name="gmall-pms" options="-parameters" />
       <module name="gmall-sms" options="-parameters" />
