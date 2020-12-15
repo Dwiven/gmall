@@ -4,11 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8291eea7-44f1-439e-b841-78889713a7b1" name="Default Changelist" comment="" />
+    <list default="true" id="8291eea7-44f1-439e-b841-78889713a7b1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/gmall-oms/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-pms/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/GmallPmsApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/GmallPmsApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-pms/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-sms/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-ums/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-wms/src/main/resources/application.properties" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -40,11 +54,25 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/gmall-generator/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/gmall-wms/src/main/resources" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.atguigu.gmall.wms.config" />
+      <recent name="com.atguigu.gmall.ums.config" />
+      <recent name="com.atguigu.gmall.sms.config" />
+      <recent name="com.atguigu.gmall.oms.config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\gmall\gmall-wms\src\main\resources" />
+      <recent name="D:\project\gmall\gmall-ums\src\main\resources" />
+      <recent name="D:\project\gmall\gmall-sms\src\main\resources" />
+      <recent name="D:\project\gmall\gmall-oms\src\main\resources" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="configurationTypes">
@@ -152,7 +180,7 @@
       <workItem from="1607956830227" duration="2350000" />
       <workItem from="1607959217462" duration="5452000" />
       <workItem from="1607998276745" duration="142000" />
-      <workItem from="1607998441884" duration="315000" />
+      <workItem from="1607998441884" duration="9689000" />
     </task>
     <servers />
   </component>
@@ -172,46 +200,46 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="496" y="92" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1607998454731" />
-    <state width="1001" height="265" key="GridCell.Tab.0.bottom" timestamp="1607998760777">
+    <state width="1137" height="380" key="GridCell.Tab.0.bottom" timestamp="1608032610897">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1001" height="265" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607998760777" />
-    <state width="1001" height="265" key="GridCell.Tab.0.center" timestamp="1607998760776">
+    <state width="1137" height="380" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608032610897" />
+    <state width="1137" height="380" key="GridCell.Tab.0.center" timestamp="1608032610897">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1001" height="265" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1607998760776" />
-    <state width="1001" height="265" key="GridCell.Tab.0.left" timestamp="1607998760776">
+    <state width="1137" height="380" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1608032610897" />
+    <state width="1137" height="380" key="GridCell.Tab.0.left" timestamp="1608032610897">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1001" height="265" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1607998760776" />
-    <state width="1001" height="265" key="GridCell.Tab.0.right" timestamp="1607998760777">
+    <state width="1137" height="380" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1608032610897" />
+    <state width="1137" height="380" key="GridCell.Tab.0.right" timestamp="1608032610897">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1001" height="265" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1607998760777" />
-    <state width="1001" height="265" key="GridCell.Tab.1.bottom" timestamp="1607998760777">
+    <state width="1137" height="380" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1608032610897" />
+    <state width="1137" height="380" key="GridCell.Tab.1.bottom" timestamp="1608032610897">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1001" height="265" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607998760777" />
-    <state width="1001" height="265" key="GridCell.Tab.1.center" timestamp="1607998760777">
+    <state width="1137" height="380" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608032610897" />
+    <state width="1137" height="380" key="GridCell.Tab.1.center" timestamp="1608032610897">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1001" height="265" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1607998760777" />
-    <state width="1001" height="265" key="GridCell.Tab.1.left" timestamp="1607998760777">
+    <state width="1137" height="380" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1608032610897" />
+    <state width="1137" height="380" key="GridCell.Tab.1.left" timestamp="1608032610897">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1001" height="265" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1607998760777" />
-    <state width="1001" height="265" key="GridCell.Tab.1.right" timestamp="1607998760777">
+    <state width="1137" height="380" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1608032610897" />
+    <state width="1137" height="380" key="GridCell.Tab.1.right" timestamp="1608032610897">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1001" height="265" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1607998760777" />
+    <state width="1137" height="380" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1608032610897" />
     <state x="153" y="0" key="SettingsEditor" timestamp="1607962609292">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="153" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1607962609292" />
-    <state width="432" height="108" key="javadoc.popup.new" timestamp="1607998760652">
+    <state width="432" height="108" key="javadoc.popup.new" timestamp="1608030920818">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="432" height="108" key="javadoc.popup.new/0.0.1536.824@0.0.1536.824" timestamp="1607998760652" />
+    <state width="432" height="108" key="javadoc.popup.new/0.0.1536.824@0.0.1536.824" timestamp="1608030920818" />
     <state x="0" y="0" key="new project wizard" timestamp="1607960380597">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
